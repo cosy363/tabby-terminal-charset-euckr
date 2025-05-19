@@ -4,6 +4,8 @@ Change Tabby terminal output charset from utf-8 to gbk, gb2312 etc...
 
 ## Features
 
+- [x] Support CP949 charset.
+- [x] Support EUC-KR charset.
 - [x] Support GBK charset.
 - [x] Support GB2312 charset.
 - [x] Support GB18030 charset. **Not Tested**
